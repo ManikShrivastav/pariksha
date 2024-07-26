@@ -19,5 +19,5 @@ Note: All the right of this plugin belongs to Haitomns Groups.
 Copyright.
 
 Regards,
-Vaikartan Groups
-https://vaikartan.com
+Haitomns Groups
+https://haitomns.com
