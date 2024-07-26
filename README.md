@@ -11,11 +11,11 @@ The code is simple and you can edit it as you want if you have a basic knowledge
 
 
 In case of any error, that you are unable to resolve kindly commit issues or you can directly mail us at 
-vaikartangroup@gmail.com
+client@haitomns.com
 
 Also do visit us at our website and follow us on social media handles to get more updates.
 
-Note: All the right of this plugin belongs to Vaikartan Groups. 
+Note: All the right of this plugin belongs to Haitomns Groups. 
 Copyright.
 
 Regards,
