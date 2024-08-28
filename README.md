@@ -15,8 +15,7 @@ client@haitomns.com
 
 Also do visit us at our website and follow us on social media handles to get more updates.
 
-Note: All the right of this plugin belongs to Haitomns Groups. 
-Copyright.
+
 
 Regards,
 Haitomns Groups
